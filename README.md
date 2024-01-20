@@ -9,3 +9,4 @@ Programul este realizat sub forma unei functii cu prototipul echivalent in C :
 void image_proc(unsigned char Image[][], unsigned char type, unsigned char n, unsigned char m)
 unde Image[][] este matricea de prelucrat, n este numarul de linii, m este numarul de coloane si type este tipul
 prelucrarii.
+ 
